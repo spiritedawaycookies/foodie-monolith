@@ -1,0 +1,12 @@
+2022-06-01 11:10:51 INFO  ServiceLogAspect:43 - ====== 开始执行 class com.lcy.service.impl.CarouselServiceImpl.queryAll ======
+2022-06-01 11:10:51 INFO  ServiceLogAspect:43 - ====== 开始执行 class com.lcy.service.impl.CategoryServiceImpl.queryAllRootLevelCat ======
+2022-06-01 11:10:51 INFO  ServiceLogAspect:62 - ====== 执行结束，耗时：11 毫秒 ======
+2022-06-01 11:10:51 INFO  ServiceLogAspect:62 - ====== 执行结束，耗时：14 毫秒 ======
+2022-06-01 11:10:51 INFO  ServiceLogAspect:43 - ====== 开始执行 class com.lcy.service.impl.CategoryServiceImpl.getSixNewItemsLazy ======
+2022-06-01 11:10:51 INFO  ServiceLogAspect:62 - ====== 执行结束，耗时：6 毫秒 ======
+2022-06-01 11:10:52 INFO  ServiceLogAspect:43 - ====== 开始执行 class com.lcy.service.impl.CategoryServiceImpl.getSubCatList ======
+2022-06-01 11:10:52 INFO  ServiceLogAspect:62 - ====== 执行结束，耗时：9 毫秒 ======
+2022-06-01 11:10:56 INFO  ServiceLogAspect:43 - ====== 开始执行 class com.lcy.service.impl.CategoryServiceImpl.getSubCatList ======
+2022-06-01 11:10:56 INFO  ServiceLogAspect:62 - ====== 执行结束，耗时：3 毫秒 ======
+2022-06-01 11:10:57 INFO  ServiceLogAspect:43 - ====== 开始执行 class com.lcy.service.impl.CategoryServiceImpl.getSubCatList ======
+2022-06-01 11:10:57 INFO  ServiceLogAspect:62 - ====== 执行结束，耗时：5 毫秒 ======

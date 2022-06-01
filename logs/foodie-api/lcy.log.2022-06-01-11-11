@@ -1,0 +1,78 @@
+2022-06-01 11:11:01 INFO  ThreadPoolTaskScheduler:208 - Shutting down ExecutorService 'taskScheduler'
+2022-06-01 11:11:01 INFO  ThreadPoolTaskExecutor:208 - Shutting down ExecutorService 'applicationTaskExecutor'
+2022-06-01 11:11:01 INFO  HikariDataSource:350 - DateSourceHikariCP - Shutdown initiated...
+2022-06-01 11:11:01 INFO  HikariDataSource:352 - DateSourceHikariCP - Shutdown completed.
+2022-06-01 11:11:04 INFO  Version:21 - HV000001: Hibernate Validator 6.0.16.Final
+2022-06-01 11:11:04 INFO  Application:50 - Starting Application on device with PID 110050 (/home/lcy/IdeaProjects/foodie-dev/foodie-dev-api/target/classes started by lcy in /home/lcy/IdeaProjects/foodie-dev)
+2022-06-01 11:11:04 INFO  Application:679 - The following profiles are active: dev
+2022-06-01 11:11:05 WARN  ClassPathMapperScanner:44 - No MyBatis mapper was found in '[com.lcy]' package. Please check your configuration.
+2022-06-01 11:11:06 INFO  PostProcessorRegistrationDelegate$BeanPostProcessorChecker:330 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$a41b488d] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-06-01 11:11:06 INFO  TomcatWebServer:90 - Tomcat initialized with port(s): 8088 (http)
+2022-06-01 11:11:06 INFO  ContextLoader:296 - Root WebApplicationContext: initialization completed in 1605 ms
+2022-06-01 11:11:08 INFO  ThreadPoolTaskExecutor:171 - Initializing ExecutorService 'applicationTaskExecutor'
+2022-06-01 11:11:08 INFO  MapperCacheDisabler:60 - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+2022-06-01 11:11:08 INFO  MapperCacheDisabler:60 - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+2022-06-01 11:11:08 INFO  MapperCacheDisabler:60 - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+2022-06-01 11:11:08 INFO  MapperCacheDisabler:83 - Clear EntityHelper entityTableMap cache.
+2022-06-01 11:11:08 INFO  ThreadPoolTaskScheduler:171 - Initializing ExecutorService 'taskScheduler'
+2022-06-01 11:11:08 INFO  DocumentationPluginsBootstrapper:84 - Context refreshed
+2022-06-01 11:11:08 INFO  DocumentationPluginsBootstrapper:87 - Found 1 custom documentation plugin(s)
+2022-06-01 11:11:08 INFO  ApiListingReferenceScanner:44 - Scanning for api listing references
+2022-06-01 11:11:08 INFO  CachingOperationNameGenerator:40 - Generating unique operation named: updateUsingPOST_1
+2022-06-01 11:11:08 INFO  CachingOperationNameGenerator:40 - Generating unique operation named: deleteUsingPOST_1
+2022-06-01 11:11:08 INFO  CachingOperationNameGenerator:40 - Generating unique operation named: queryUsingPOST_1
+2022-06-01 11:11:08 INFO  CachingOperationNameGenerator:40 - Generating unique operation named: addUsingPOST_1
+2022-06-01 11:11:08 INFO  TomcatWebServer:204 - Tomcat started on port(s): 8088 (http) with context path ''
+2022-06-01 11:11:08 INFO  Application:59 - Started Application in 4.368 seconds (JVM running for 5.116)
+2022-06-01 11:11:12 INFO  DispatcherServlet:524 - Initializing Servlet 'dispatcherServlet'
+2022-06-01 11:11:12 INFO  DispatcherServlet:546 - Completed initialization in 8 ms
+2022-06-01 11:11:12 INFO  ServiceLogAspect:43 - ====== 开始执行 class com.lcy.service.impl.CategoryServiceImpl.getSubCatList ======
+2022-06-01 11:11:12 INFO  HikariDataSource:110 - DateSourceHikariCP - Starting...
+2022-06-01 11:11:12 INFO  HikariDataSource:123 - DateSourceHikariCP - Start completed.
+2022-06-01 11:11:12 INFO  ServiceLogAspect:62 - ====== 执行结束，耗时：470 毫秒 ======
+2022-06-01 11:11:13 INFO  ServiceLogAspect:43 - ====== 开始执行 class com.lcy.service.impl.CarouselServiceImpl.queryAll ======
+2022-06-01 11:11:13 INFO  ServiceLogAspect:43 - ====== 开始执行 class com.lcy.service.impl.CategoryServiceImpl.queryAllRootLevelCat ======
+2022-06-01 11:11:13 INFO  ServiceLogAspect:62 - ====== 执行结束，耗时：50 毫秒 ======
+2022-06-01 11:11:13 INFO  ServiceLogAspect:62 - ====== 执行结束，耗时：52 毫秒 ======
+2022-06-01 11:11:13 INFO  ServiceLogAspect:43 - ====== 开始执行 class com.lcy.service.impl.CategoryServiceImpl.getSixNewItemsLazy ======
+2022-06-01 11:11:13 INFO  ServiceLogAspect:62 - ====== 执行结束，耗时：6 毫秒 ======
+2022-06-01 11:11:34 INFO  ThreadPoolTaskScheduler:208 - Shutting down ExecutorService 'taskScheduler'
+2022-06-01 11:11:34 INFO  ThreadPoolTaskExecutor:208 - Shutting down ExecutorService 'applicationTaskExecutor'
+2022-06-01 11:11:34 INFO  HikariDataSource:350 - DateSourceHikariCP - Shutdown initiated...
+2022-06-01 11:11:34 INFO  HikariDataSource:352 - DateSourceHikariCP - Shutdown completed.
+2022-06-01 11:11:50 INFO  Version:21 - HV000001: Hibernate Validator 6.0.16.Final
+2022-06-01 11:11:50 INFO  Application:50 - Starting Application on device with PID 110237 (/home/lcy/IdeaProjects/foodie-dev/foodie-dev-api/target/classes started by lcy in /home/lcy/IdeaProjects/foodie-dev)
+2022-06-01 11:11:50 INFO  Application:679 - The following profiles are active: dev
+2022-06-01 11:11:51 WARN  ClassPathMapperScanner:44 - No MyBatis mapper was found in '[com.lcy]' package. Please check your configuration.
+2022-06-01 11:11:51 INFO  PostProcessorRegistrationDelegate$BeanPostProcessorChecker:330 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$7c4c96d1] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-06-01 11:11:51 INFO  TomcatWebServer:90 - Tomcat initialized with port(s): 8088 (http)
+2022-06-01 11:11:51 INFO  ContextLoader:296 - Root WebApplicationContext: initialization completed in 1355 ms
+2022-06-01 11:11:53 INFO  ThreadPoolTaskExecutor:171 - Initializing ExecutorService 'applicationTaskExecutor'
+2022-06-01 11:11:53 INFO  MapperCacheDisabler:60 - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+2022-06-01 11:11:53 INFO  MapperCacheDisabler:60 - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+2022-06-01 11:11:53 INFO  MapperCacheDisabler:60 - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+2022-06-01 11:11:53 INFO  MapperCacheDisabler:83 - Clear EntityHelper entityTableMap cache.
+2022-06-01 11:11:53 INFO  ThreadPoolTaskScheduler:171 - Initializing ExecutorService 'taskScheduler'
+2022-06-01 11:11:53 INFO  DocumentationPluginsBootstrapper:84 - Context refreshed
+2022-06-01 11:11:53 INFO  DocumentationPluginsBootstrapper:87 - Found 1 custom documentation plugin(s)
+2022-06-01 11:11:53 INFO  ApiListingReferenceScanner:44 - Scanning for api listing references
+2022-06-01 11:11:53 INFO  CachingOperationNameGenerator:40 - Generating unique operation named: updateUsingPOST_1
+2022-06-01 11:11:53 INFO  CachingOperationNameGenerator:40 - Generating unique operation named: deleteUsingPOST_1
+2022-06-01 11:11:53 INFO  CachingOperationNameGenerator:40 - Generating unique operation named: queryUsingPOST_1
+2022-06-01 11:11:53 INFO  CachingOperationNameGenerator:40 - Generating unique operation named: addUsingPOST_1
+2022-06-01 11:11:53 INFO  TomcatWebServer:204 - Tomcat started on port(s): 8088 (http) with context path ''
+2022-06-01 11:11:53 INFO  Application:59 - Started Application in 3.671 seconds (JVM running for 4.05)
+2022-06-01 11:11:58 INFO  DispatcherServlet:524 - Initializing Servlet 'dispatcherServlet'
+2022-06-01 11:11:58 INFO  DispatcherServlet:546 - Completed initialization in 7 ms
+2022-06-01 11:11:58 INFO  ServiceLogAspect:43 - ====== 开始执行 class com.lcy.service.impl.CategoryServiceImpl.getSubCatList ======
+2022-06-01 11:11:58 INFO  ServiceLogAspect:43 - ====== 开始执行 class com.lcy.service.impl.CategoryServiceImpl.getSubCatList ======
+2022-06-01 11:11:58 INFO  ServiceLogAspect:43 - ====== 开始执行 class com.lcy.service.impl.CategoryServiceImpl.getSubCatList ======
+2022-06-01 11:11:58 INFO  ServiceLogAspect:43 - ====== 开始执行 class com.lcy.service.impl.CategoryServiceImpl.getSubCatList ======
+2022-06-01 11:11:58 INFO  HikariDataSource:110 - DateSourceHikariCP - Starting...
+2022-06-01 11:11:59 INFO  HikariDataSource:123 - DateSourceHikariCP - Start completed.
+2022-06-01 11:11:59 INFO  ServiceLogAspect:62 - ====== 执行结束，耗时：321 毫秒 ======
+2022-06-01 11:11:59 INFO  ServiceLogAspect:62 - ====== 执行结束，耗时：321 毫秒 ======
+2022-06-01 11:11:59 INFO  ServiceLogAspect:62 - ====== 执行结束，耗时：328 毫秒 ======
+2022-06-01 11:11:59 INFO  ServiceLogAspect:62 - ====== 执行结束，耗时：329 毫秒 ======
+2022-06-01 11:11:59 INFO  ServiceLogAspect:43 - ====== 开始执行 class com.lcy.service.impl.CarouselServiceImpl.queryAll ======
+2022-06-01 11:11:59 INFO  ServiceLogAspect:43 - ====== 开始执行 class com.lcy.service.impl.CategoryServiceImpl.queryAllRootLevelCat ======

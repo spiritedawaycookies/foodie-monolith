@@ -1,0 +1,28 @@
+2022-06-01 11:03:00 INFO  HikariDataSource:123 - DateSourceHikariCP - Start completed.
+2022-06-01 11:03:00 INFO  ServiceLogAspect:62 - ====== 执行结束，耗时：403 毫秒 ======
+2022-06-01 11:03:00 INFO  ServiceLogAspect:62 - ====== 执行结束，耗时：403 毫秒 ======
+2022-06-01 11:03:00 INFO  ServiceLogAspect:43 - ====== 开始执行 class com.lcy.service.impl.CategoryServiceImpl.getSixNewItemsLazy ======
+2022-06-01 11:03:00 INFO  ServiceLogAspect:62 - ====== 执行结束，耗时：10 毫秒 ======
+2022-06-01 11:03:00 INFO  ServiceLogAspect:43 - ====== 开始执行 class com.lcy.service.impl.CategoryServiceImpl.getSubCatList ======
+2022-06-01 11:03:00 INFO  ServiceLogAspect:62 - ====== 执行结束，耗时：6 毫秒 ======
+2022-06-01 11:03:00 INFO  ServiceLogAspect:43 - ====== 开始执行 class com.lcy.service.impl.CategoryServiceImpl.getSubCatList ======
+2022-06-01 11:03:00 INFO  ServiceLogAspect:62 - ====== 执行结束，耗时：5 毫秒 ======
+2022-06-01 11:03:02 INFO  ServiceLogAspect:43 - ====== 开始执行 class com.lcy.service.impl.CategoryServiceImpl.getSixNewItemsLazy ======
+2022-06-01 11:03:02 INFO  ServiceLogAspect:62 - ====== 执行结束，耗时：6 毫秒 ======
+2022-06-01 11:03:16 INFO  ServiceLogAspect:43 - ====== 开始执行 class com.lcy.service.impl.UserServiceImpl.queryUserForLogin ======
+2022-06-01 11:03:16 INFO  ServiceLogAspect:62 - ====== 执行结束，耗时：6 毫秒 ======
+2022-06-01 11:03:21 INFO  ServiceLogAspect:43 - ====== 开始执行 class com.lcy.service.impl.UserServiceImpl.queryUserForLogin ======
+2022-06-01 11:03:21 INFO  ServiceLogAspect:62 - ====== 执行结束，耗时：4 毫秒 ======
+2022-06-01 11:03:21 INFO  CookieUtils:210 - ========== domainName: localhost ==========
+2022-06-01 11:03:21 INFO  ServiceLogAspect:43 - ====== 开始执行 class com.lcy.service.impl.CarouselServiceImpl.queryAll ======
+2022-06-01 11:03:22 INFO  ServiceLogAspect:43 - ====== 开始执行 class com.lcy.service.impl.CategoryServiceImpl.queryAllRootLevelCat ======
+2022-06-01 11:03:22 INFO  ServiceLogAspect:62 - ====== 执行结束，耗时：6 毫秒 ======
+2022-06-01 11:03:22 INFO  ServiceLogAspect:62 - ====== 执行结束，耗时：8 毫秒 ======
+2022-06-01 11:03:22 INFO  ServiceLogAspect:43 - ====== 开始执行 class com.lcy.service.impl.CategoryServiceImpl.getSixNewItemsLazy ======
+2022-06-01 11:03:22 INFO  ServiceLogAspect:62 - ====== 执行结束，耗时：5 毫秒 ======
+2022-06-01 11:03:46 INFO  ServiceLogAspect:43 - ====== 开始执行 class com.lcy.service.impl.CategoryServiceImpl.getSubCatList ======
+2022-06-01 11:03:46 INFO  ServiceLogAspect:62 - ====== 执行结束，耗时：4 毫秒 ======
+2022-06-01 11:03:46 INFO  ServiceLogAspect:43 - ====== 开始执行 class com.lcy.service.impl.CategoryServiceImpl.getSubCatList ======
+2022-06-01 11:03:46 INFO  ServiceLogAspect:62 - ====== 执行结束，耗时：3 毫秒 ======
+2022-06-01 11:03:46 INFO  ServiceLogAspect:43 - ====== 开始执行 class com.lcy.service.impl.CategoryServiceImpl.getSubCatList ======
+2022-06-01 11:03:46 INFO  ServiceLogAspect:62 - ====== 执行结束，耗时：6 毫秒 ======

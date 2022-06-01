@@ -1,0 +1,36 @@
+2022-06-01 11:09:00 INFO  DispatcherServlet:524 - Initializing Servlet 'dispatcherServlet'
+2022-06-01 11:09:00 INFO  DispatcherServlet:546 - Completed initialization in 11 ms
+2022-06-01 11:09:00 INFO  ServiceLogAspect:43 - ====== 开始执行 class com.lcy.service.impl.CategoryServiceImpl.queryAllRootLevelCat ======
+2022-06-01 11:09:00 INFO  ServiceLogAspect:43 - ====== 开始执行 class com.lcy.service.impl.CarouselServiceImpl.queryAll ======
+2022-06-01 11:09:00 INFO  HikariDataSource:110 - DateSourceHikariCP - Starting...
+2022-06-01 11:09:01 INFO  HikariDataSource:123 - DateSourceHikariCP - Start completed.
+2022-06-01 11:09:01 INFO  ServiceLogAspect:62 - ====== 执行结束，耗时：487 毫秒 ======
+2022-06-01 11:09:01 INFO  ServiceLogAspect:62 - ====== 执行结束，耗时：489 毫秒 ======
+2022-06-01 11:09:01 INFO  ServiceLogAspect:43 - ====== 开始执行 class com.lcy.service.impl.CategoryServiceImpl.getSixNewItemsLazy ======
+2022-06-01 11:09:01 INFO  ServiceLogAspect:43 - ====== 开始执行 class com.lcy.service.impl.CategoryServiceImpl.getSubCatList ======
+2022-06-01 11:09:01 INFO  ServiceLogAspect:62 - ====== 执行结束，耗时：13 毫秒 ======
+2022-06-01 11:09:01 INFO  ServiceLogAspect:62 - ====== 执行结束，耗时：9 毫秒 ======
+2022-06-01 11:09:09 INFO  ServiceLogAspect:43 - ====== 开始执行 class com.lcy.service.impl.CategoryServiceImpl.getSubCatList ======
+2022-06-01 11:09:09 INFO  ServiceLogAspect:62 - ====== 执行结束，耗时：8 毫秒 ======
+2022-06-01 11:09:10 INFO  ServiceLogAspect:43 - ====== 开始执行 class com.lcy.service.impl.CarouselServiceImpl.queryAll ======
+2022-06-01 11:09:10 INFO  ServiceLogAspect:43 - ====== 开始执行 class com.lcy.service.impl.CategoryServiceImpl.queryAllRootLevelCat ======
+2022-06-01 11:09:10 INFO  ServiceLogAspect:62 - ====== 执行结束，耗时：6 毫秒 ======
+2022-06-01 11:09:10 INFO  ServiceLogAspect:62 - ====== 执行结束，耗时：6 毫秒 ======
+2022-06-01 11:09:10 INFO  ServiceLogAspect:43 - ====== 开始执行 class com.lcy.service.impl.CategoryServiceImpl.getSixNewItemsLazy ======
+2022-06-01 11:09:10 INFO  ServiceLogAspect:62 - ====== 执行结束，耗时：4 毫秒 ======
+2022-06-01 11:09:10 INFO  ServiceLogAspect:43 - ====== 开始执行 class com.lcy.service.impl.CategoryServiceImpl.getSubCatList ======
+2022-06-01 11:09:10 INFO  ServiceLogAspect:62 - ====== 执行结束，耗时：3 毫秒 ======
+2022-06-01 11:09:10 INFO  ServiceLogAspect:43 - ====== 开始执行 class com.lcy.service.impl.CategoryServiceImpl.getSubCatList ======
+2022-06-01 11:09:10 INFO  ServiceLogAspect:62 - ====== 执行结束，耗时：4 毫秒 ======
+2022-06-01 11:09:14 INFO  ServiceLogAspect:43 - ====== 开始执行 class com.lcy.service.impl.ItemServiceImpl.searhItems ======
+2022-06-01 11:09:15 INFO  ServiceLogAspect:62 - ====== 执行结束，耗时：46 毫秒 ======
+2022-06-01 11:09:27 INFO  ServiceLogAspect:43 - ====== 开始执行 class com.lcy.service.impl.CarouselServiceImpl.queryAll ======
+2022-06-01 11:09:27 INFO  ServiceLogAspect:43 - ====== 开始执行 class com.lcy.service.impl.CategoryServiceImpl.queryAllRootLevelCat ======
+2022-06-01 11:09:27 INFO  ServiceLogAspect:62 - ====== 执行结束，耗时：4 毫秒 ======
+2022-06-01 11:09:27 INFO  ServiceLogAspect:62 - ====== 执行结束，耗时：5 毫秒 ======
+2022-06-01 11:09:27 INFO  ServiceLogAspect:43 - ====== 开始执行 class com.lcy.service.impl.CategoryServiceImpl.getSixNewItemsLazy ======
+2022-06-01 11:09:27 INFO  ServiceLogAspect:62 - ====== 执行结束，耗时：4 毫秒 ======
+2022-06-01 11:09:27 INFO  ServiceLogAspect:43 - ====== 开始执行 class com.lcy.service.impl.CategoryServiceImpl.getSubCatList ======
+2022-06-01 11:09:27 INFO  ServiceLogAspect:62 - ====== 执行结束，耗时：5 毫秒 ======
+2022-06-01 11:09:27 INFO  ServiceLogAspect:43 - ====== 开始执行 class com.lcy.service.impl.CategoryServiceImpl.getSubCatList ======
+2022-06-01 11:09:27 INFO  ServiceLogAspect:62 - ====== 执行结束，耗时：5 毫秒 ======

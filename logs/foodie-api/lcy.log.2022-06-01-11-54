@@ -1,0 +1,20 @@
+2022-06-01 11:54:32 INFO  ServiceLogAspect:43 - ====== 开始执行 class com.lcy.service.impl.CarouselServiceImpl.queryAll ======
+2022-06-01 11:54:32 INFO  ServiceLogAspect:43 - ====== 开始执行 class com.lcy.service.impl.CategoryServiceImpl.queryAllRootLevelCat ======
+2022-06-01 11:54:32 INFO  ServiceLogAspect:62 - ====== 执行结束，耗时：9 毫秒 ======
+2022-06-01 11:54:32 INFO  ServiceLogAspect:62 - ====== 执行结束，耗时：10 毫秒 ======
+2022-06-01 11:54:32 INFO  ServiceLogAspect:43 - ====== 开始执行 class com.lcy.service.impl.CategoryServiceImpl.getSixNewItemsLazy ======
+2022-06-01 11:54:32 INFO  ServiceLogAspect:62 - ====== 执行结束，耗时：5 毫秒 ======
+2022-06-01 11:54:40 INFO  ServiceLogAspect:43 - ====== 开始执行 class com.lcy.service.impl.CategoryServiceImpl.getSixNewItemsLazy ======
+2022-06-01 11:54:40 INFO  ServiceLogAspect:62 - ====== 执行结束，耗时：4 毫秒 ======
+2022-06-01 11:54:44 INFO  ServiceLogAspect:43 - ====== 开始执行 class com.lcy.service.impl.ItemServiceImpl.queryItemById ======
+2022-06-01 11:54:44 INFO  ServiceLogAspect:43 - ====== 开始执行 class com.lcy.service.impl.ItemServiceImpl.queryCommentCounts ======
+2022-06-01 11:54:44 INFO  ServiceLogAspect:43 - ====== 开始执行 class com.lcy.service.impl.ItemServiceImpl.queryPagedComments ======
+2022-06-01 11:54:44 INFO  ServiceLogAspect:62 - ====== 执行结束，耗时：4 毫秒 ======
+2022-06-01 11:54:44 INFO  ServiceLogAspect:43 - ====== 开始执行 class com.lcy.service.impl.ItemServiceImpl.queryItemImgList ======
+2022-06-01 11:54:44 INFO  ServiceLogAspect:62 - ====== 执行结束，耗时：4 毫秒 ======
+2022-06-01 11:54:44 INFO  ServiceLogAspect:62 - ====== 执行结束，耗时：2 毫秒 ======
+2022-06-01 11:54:44 INFO  ServiceLogAspect:43 - ====== 开始执行 class com.lcy.service.impl.ItemServiceImpl.queryItemSpecList ======
+2022-06-01 11:54:44 INFO  ServiceLogAspect:62 - ====== 执行结束，耗时：2 毫秒 ======
+2022-06-01 11:54:44 INFO  ServiceLogAspect:62 - ====== 执行结束，耗时：6 毫秒 ======
+2022-06-01 11:54:44 INFO  ServiceLogAspect:43 - ====== 开始执行 class com.lcy.service.impl.ItemServiceImpl.queryItemParam ======
+2022-06-01 11:54:44 INFO  ServiceLogAspect:62 - ====== 执行结束，耗时：3 毫秒 ======
